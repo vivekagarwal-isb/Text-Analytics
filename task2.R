@@ -6,13 +6,13 @@ getwd()
 search_terms = c('GST','HIB','Data science')
 
 #reading the text of all three topics
-file.cr = read.csv(paste0("C:\\Users\\Payal apujani\\Downloads\\",
+file.cr = read.csv(paste0("C:\\Users\\vivek\\Downloads\\",
                           "GST google search.csv"))
 
-file.mi = read.csv(paste0("C:\\Users\\Payal apujani\\Downloads\\",
+file.mi = read.csv(paste0("C:\\Users\\vivek\\Downloads\\",
                           "H1B google search.csv"))
 
-file.lin = read.csv(paste0("C:\\Users\\Payal apujani\\Downloads\\",
+file.lin = read.csv(paste0("C:\\Users\\vivek\\Downloads\\",
                            "Data science google search.csv"))
 
 
